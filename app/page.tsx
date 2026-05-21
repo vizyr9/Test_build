@@ -33,6 +33,7 @@ export default function Home() {
             </a>{" "}
             center.
           </p>
+          <h1>Hello Vercel v2</h1>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <a
