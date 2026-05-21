@@ -33,7 +33,7 @@ export default function Home() {
             </a>{" "}
             center.
           </p>
-          <h1>J'ai fait une modif</h1>
+          <h1>J'ai fait une modf</h1>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <a
